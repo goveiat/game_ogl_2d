@@ -4,6 +4,11 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Arquivos de Cabeçalho"
                    projectFiles="true">
+      <itemPath>Asteroide.h</itemPath>
+      <itemPath>Inimigo.h</itemPath>
+      <itemPath>Invasores.h</itemPath>
+      <itemPath>Nave.h</itemPath>
+      <itemPath>Tiro.h</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Arquivos de Código-Fonte"
@@ -41,6 +46,16 @@
           </linkerLibItems>
         </linkerTool>
       </compileType>
+      <item path="Asteroide.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Inimigo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Invasores.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nave.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tiro.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -64,6 +79,16 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Asteroide.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Inimigo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Invasores.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nave.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tiro.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
